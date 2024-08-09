@@ -1,5 +1,9 @@
 # 🖥️ Github 사용 방법
 
+- 0번부터 6번까지 천천히 따라해보기 !
+- 0번 ~ 1번 까지는 처음만 진행
+- 이후로는 <code><b>(작업 전) 2번 ~ (작업 후) 5번</b></code> 까지 진행합니다.
+
 ## 0. 🔑 깃 레포 접근 권한 부여
 1. GitHub에서 해당 레포지토리로 이동합니다
 1. Settings 탭을 클릭합니다
@@ -30,7 +34,7 @@ git pull origin master
 ## 🌿 3. 브랜치 생성 및 작업
 - 새로운 작업을 시작할 때는 브랜치를 생성하고 해당 브랜치로 이동합니다
 - 브랜치명은 자유입니다 (이름으로 하셔도 되고 닉네임으로 하셔도 됩니다)
-> <code>git branch <branch명></code> -> 해당 브랜치 생성  <b>[초기에만 진행합니다]</b><br>
+> <code>git branch <branch명></code> -> 해당 브랜치 생성  <span style="color:red"><b>[초기에만 진행합니다]</b></span><br>
 <code>git checkout <branch명></code> -> 해당 브랜치 접속
 ```bash
 git branch <이 부분 branch명 변경!>
