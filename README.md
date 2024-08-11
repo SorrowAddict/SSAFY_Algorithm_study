@@ -2,6 +2,7 @@
 
 ## 절대 master 브랜치에서 작업하지 않습니다
 
+- 해당 레포지토리를 fork 하여 본인 Github 레포에서도 확인할 수 있어요 !
 - 0번부터 6번까지 천천히 따라해보기 !
 - 0번 ~ 1번 까지는 처음만 진행
 - 이후로는 <code><b>(작업 전) 2번 ~ (작업 후) 5번</b></code> 까지 진행합니다.
@@ -65,6 +66,7 @@ git push origin <branch명>
 - GitHub에서 브라우저를 열고 레포지토리로 이동한 후, 새로 푸시한 브랜치에서 Pull Request를 생성합니다
 - 팀원들의 코드 리뷰 후, PR이 승인되면 master 브랜치에 merge합니다
 - PR의 경우 1주일에 1번만 진행합니다
+> 참고 사이트 : [[Github] 외부저장소 fork, pull, request, 동기화 하기](https://velog.io/@jisubin12/Github-%EC%99%B8%EB%B6%80%EC%A0%80%EC%9E%A5%EC%86%8C-fork-pull-request-%EB%8F%99%EA%B8%B0%ED%99%94-%ED%95%98%EA%B8%B0)
 
 ## 📝 6. 우리만의 Git Commit 규칙 (권고 사항)
 - 파일명은 자유입니다
