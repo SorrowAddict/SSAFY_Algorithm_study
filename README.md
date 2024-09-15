@@ -39,6 +39,115 @@
     - 주차별 문제, 모의시험 문제 리뷰
     - 스터디 진행 상황 조정
 
+## 📚 진행 과정
+
+<details>
+  <summary>01주차 : ✅ 24/07/22 ~ 24/07/30 => 구현</summary>
+
+  > 문제 목록
+  - [2439 - 별 찍기 2 (구현)](https://www.acmicpc.net/problem/2439)
+  - [2562 - 최댓값 (구현)](https://www.acmicpc.net/problem/2562)
+  - [2884 - 알람 시계 (구현)](https://www.acmicpc.net/problem/2884)
+  - [11720 - 숫자의 합 (구현)](https://www.acmicpc.net/problem/11720)
+  - [31403 - 실버 4 (구현)](https://www.acmicpc.net/problem/31403)
+
+</details>
+
+<details>
+  <summary>02주차 : ✅ 24/07/31 ~ 24/08/06 => 구현</summary>
+
+  > 문제 목록
+  - [1152 - 단어의 개수 (구현)](https://www.acmicpc.net/problem/1152)
+  - [1259 - 팰린드롬수 (구현)](https://www.acmicpc.net/problem/1259)
+  - [1676 - 팩토리얼 0의 개수 (수학)](https://www.acmicpc.net/problem/1676)
+  - [8958 - OX퀴즈 (구현)](https://www.acmicpc.net/problem/8958)
+  - [10809 - 알파벳 찾기 (구현)](https://www.acmicpc.net/problem/10809)
+
+</details>
+
+<details>
+  <summary>03주차 : ✅ 24/08/07 ~ 24/08/13 => 구현</summary>
+
+  > 문제 목록
+  - [2309 - 일곱 난쟁이 (브루트포스)](https://www.acmicpc.net/problem/2309)
+  - [2605 - 줄 세우기 (구현)](https://www.acmicpc.net/problem/2605)
+  - [2669 - 직사각형 네 개의 합집합의 면적 구하기 (구현)](https://www.acmicpc.net/problem/2669)
+  - [10163 - 색종이 (구현)](https://www.acmicpc.net/problem/10163)
+  - [14696 - 디스플레이 (구현)](https://www.acmicpc.net/problem/14696)
+
+</details>
+
+<details>
+  <summary>04주차 : ✅ 24/08/14 ~ 24/08/20 => 구현</summary>
+
+  > 문제 목록
+  - [1244 - 스위치 켜고 끄기 (구현)](https://www.acmicpc.net/problem/1244)
+  - [2491 - 수열 (구현)](https://www.acmicpc.net/problem/2491)
+  - [2578 - 빙고 (구현)](https://www.acmicpc.net/problem/2578)
+  - [2635 - 수 이어가기 (구현)](https://www.acmicpc.net/problem/2635)
+  - [10158 - 개미 (구현)](https://www.acmicpc.net/problem/10158)
+  - [10157 - 좌표 압축 (구현)](https://www.acmicpc.net/problem/10157)
+
+</details>
+
+<details>
+  <summary>05주차 : ✅ 24/08/21 ~ 24/08/27 => 삼성 SW 역량테스트 IM 대비 (swea)</summary>
+
+  > 문제 목록
+  - 1226. [S/W 문제해결 기본] 7일차 - 미로2 (탐색)
+  - 1234. [S/W 문제해결 기본] 10일차 - 비밀번호 (구현)
+  - 1859. 백만 장자 프로젝트 (그리디)
+  - 1860. 진기의 최고급 붕어빵 (시뮬레이션)
+  - 1979. 어디에 단어가 들어갈 수 있을까 (탐색)
+
+</details>
+
+<details>
+  <summary>06주차 : ✅ 24/08/28 ~ 24/09/03 => SW</summary>
+
+  > 문제 목록
+  - 삼성 SW 역량 테스트 (문제 풀이)
+
+</details>
+
+<details>
+  <summary>07주차 : ✅ 24/09/04 ~ 24/09/10 => 휴식 주차</summary>
+
+  > 문제 목록
+  - 휴식 주차
+
+</details>
+
+<details>
+  <summary>08주차 : ✅ 24/09/11 ~ 24/09/17 => 구현, 정렬 (class 1~2)</summary>
+
+  > 문제 목록
+  - solved.ac class 1 최대한 다 풀어오기
+  - [2920 - 음계 (구현)](https://www.acmicpc.net/problem/2920)
+  - [10809 - 알파벳 찾기 (구현)](https://www.acmicpc.net/problem/10809)
+  - [10250 - ACM 호텔 (구현)](https://www.acmicpc.net/problem/10250)
+  - [1259 - 팰린드롬수 (구현)](https://www.acmicpc.net/problem/1259)
+  - [1181 - 단어 정렬 (정렬)](https://www.acmicpc.net/problem/1181)
+
+</details>
+
+<details>
+  <summary>09주차 : ✅ 24/09/18 ~ 24/09/24 =></summary>
+
+  > 문제 목록
+  - 미정
+
+</details>
+
+<details>
+  <summary>10주차 : ✅ 24/09/25 ~ 24/10/01 =></summary>
+
+  > 문제 목록
+  - 미정
+
+</details>
+
+
 ## 📝 주차별 학습
 
 <aside>
