@@ -103,7 +103,7 @@
 </details>
 
 <details>
-  <summary>06주차 : ✅ 24/08/28 ~ 24/09/03 => SW</summary>
+  <summary>06주차 : ✅ 24/08/28 ~ 24/09/03 => 삼성 SW 역량 테스트 (pass)</summary>
 
   > 문제 목록
   - 삼성 SW 역량 테스트 (문제 풀이)
@@ -111,7 +111,7 @@
 </details>
 
 <details>
-  <summary>07주차 : ✅ 24/09/04 ~ 24/09/10 => 휴식 주차</summary>
+  <summary>07주차 : ✅ 24/09/04 ~ 24/09/10 => 휴식 주차 (pass)</summary>
 
   > 문제 목록
   - 휴식 주차
