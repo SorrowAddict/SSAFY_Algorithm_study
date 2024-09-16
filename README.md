@@ -126,8 +126,8 @@
   - [2920 - 음계 (구현)](https://www.acmicpc.net/problem/2920)
   - [10809 - 알파벳 찾기 (구현)](https://www.acmicpc.net/problem/10809)
   - [10250 - ACM 호텔 (구현)](https://www.acmicpc.net/problem/10250)
-  - [1259 - 팰린드롬수 (구현)](https://www.acmicpc.net/problem/1259)
   - [1181 - 단어 정렬 (정렬)](https://www.acmicpc.net/problem/1181)
+  - [1436 - 영화감독 숌 (브루트포스)](https://www.acmicpc.net/problem/1436)
 
 </details>
 
