@@ -119,7 +119,7 @@
 </details>
 
 <details>
-  <summary>08주차 : ✅ 24/09/11 ~ 24/09/17 => 구현, 정렬 (class 1~2)</summary>
+  <summary>08주차 : ✅ 24/09/11 ~ 24/09/17 => 구현, 정렬, 완전 탐색</summary>
 
   > 문제 목록
   - solved.ac class 1 최대한 다 풀어오기
