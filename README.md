@@ -143,10 +143,17 @@
 </details>
 
 <details>
-  <summary>09주차 : ✅ 24/09/18 ~ 24/09/24 =></summary>
+  <summary>09주차 : ✅ 24/09/18 ~ 24/09/24 => 큐</summary>
 
   > 문제 목록
-  - 미정
+  - [2164 - 카드2 (큐)](https://www.acmicpc.net/problem/2164)
+  - [1966 - 프린터 큐 (큐)](https://www.acmicpc.net/problem/1966)
+  - [11866 - 요세푸스 문제 0 (큐)(다시 풀어보기)](https://www.acmicpc.net/problem/11866)
+  - [10845 - 큐 (큐)](https://www.acmicpc.net/problem/10845)
+  - 아래는 BFS & DFS 기본 코드 참고 자료
+    - [DFS (스택 구조)](docs/Algorithm/BFS&DFS/DFS_stack.py)
+    - [DFS (재귀 구조)](docs/Algorithm/BFS&DFS/DFS_recur.py)
+    - [BFS (큐 구조)](docs/Algorithm/BFS&DFS/BFS_queue.py)
 
 </details>
 
