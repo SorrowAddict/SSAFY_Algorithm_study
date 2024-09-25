@@ -159,7 +159,7 @@
 </details>
 
 <details>
-  <summary>10주차 : ✅ 24/09/25 ~ 24/10/01 =></summary>
+  <summary>10주차 : ✅ 24/09/25 ~ 24/10/01 => 그래프 탐색</summary>
 
   > 문제 목록
   - [21736 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)
