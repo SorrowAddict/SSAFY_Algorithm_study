@@ -162,6 +162,16 @@
   <summary>10주차 : ✅ 24/09/25 ~ 24/10/01 =></summary>
 
   > 문제 목록
+  - [21736 - 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)
+  - [7576 - 토마토 (그래프 탐색)](https://www.acmicpc.net/problem/7576)
+  - [7569 - 토마토 (그래프 탐색)](https://www.acmicpc.net/problem/7569)
+
+</details>
+
+<details>
+  <summary>11주차 : ✅ 24/10/02 ~ 24/10/08 =></summary>
+
+  > 문제 목록
   - 미정
 
 </details>
