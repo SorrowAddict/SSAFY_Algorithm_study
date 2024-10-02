@@ -169,13 +169,25 @@
 </details>
 
 <details>
-  <summary>11주차 : ✅ 24/10/02 ~ 24/10/08 =></summary>
+  <summary>11주차 : ✅ 24/10/02 ~ 24/10/08 => 그래프 탐색</summary>
+
+  > 문제 목록
+  - [14940 - 쉬운 최단거리 (그래프 탐색, BFS)](https://www.acmicpc.net/problem/14940)
+  - [2178 - 미로 탐색 (그래프 탐색, BFS)](https://www.acmicpc.net/problem/2178)
+  - (선택 문제)
+    - [16953 - A → B (그래프 탐색, BFS, 그리디)](https://www.acmicpc.net/problem/16953)
+    - [7576 - 토마토 (그래프 탐색)](https://www.acmicpc.net/problem/7576)
+    - [7569 - 토마토 (그래프 탐색)](https://www.acmicpc.net/problem/7569)
+
+</details>
+
+<details>
+  <summary>12주차 : ✅ 24/10/09 ~ 24/10/15 =></summary>
 
   > 문제 목록
   - 미정
 
 </details>
-
 
 ## 📝 주차별 학습
 
