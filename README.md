@@ -182,7 +182,21 @@
 </details>
 
 <details>
-  <summary>12주차 : ✅ 24/10/09 ~ 24/10/15 =></summary>
+  <summary>12주차 : ✅ 24/10/09 ~ 24/10/15 => 백트래킹 (기초)</summary>
+
+  > 문제 목록
+  - [15650 - N과 M (2) (백트래킹, 조합)](https://www.acmicpc.net/problem/15650)
+  - [15652 - N과 M (4) (백트래킹, 중복조합)](https://www.acmicpc.net/problem/15652)
+  - [15654 - N과 M (5) (백트래킹, 순열)](https://www.acmicpc.net/problem/15654)
+  - (선택 문제)
+    - [15649 - N과 M (1) (백트래킹, 순열)](https://www.acmicpc.net/problem/15649)
+    - [2447 - 별 찍기 - 10 (재귀)](https://www.acmicpc.net/problem/2447)
+
+</details>
+
+
+<details>
+  <summary>13주차 : ✅ 24/10/16 ~ 24/10/22 =></summary>
 
   > 문제 목록
   - 미정
