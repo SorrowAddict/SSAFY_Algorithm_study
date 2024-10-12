@@ -188,6 +188,7 @@
   - [15650 - N과 M (2) (백트래킹, 조합)](https://www.acmicpc.net/problem/15650)
   - [15652 - N과 M (4) (백트래킹, 중복조합)](https://www.acmicpc.net/problem/15652)
   - [15654 - N과 M (5) (백트래킹, 순열)](https://www.acmicpc.net/problem/15654)
+  - [백트래킹 참고 자료 Link](./docs/Algorithm/BackTracking/README.md)
   - (선택 문제)
     - [15649 - N과 M (1) (백트래킹, 순열)](https://www.acmicpc.net/problem/15649)
     - [2447 - 별 찍기 - 10 (재귀)](https://www.acmicpc.net/problem/2447)
