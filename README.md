@@ -197,7 +197,22 @@
 
 
 <details>
-  <summary>13주차 : ✅ 24/10/16 ~ 24/10/22 =></summary>
+  <summary>13주차 : ✅ 24/10/16 ~ 24/10/22 => 중간 복습 (그리디, 그래프 탐색, 재귀)</summary>
+
+  > 문제 목록
+  - [1541 - 잃어버린 괄호 (그리디)](https://www.acmicpc.net/problem/1541)
+  - [2606 - 바이러스 (그래프 탐색)](https://www.acmicpc.net/problem/2606)
+  - [15666 - N과 M (12) (백트래킹)](https://www.acmicpc.net/problem/15666)
+  - (선택 문제)
+    - [1012 - 유기농 배추 (그래프 탐색)](https://www.acmicpc.net/problem/1012)
+    - [11724 - 연결 요소의 개수 (그래프 탐색)](https://www.acmicpc.net/problem/11724)
+    - [15663 - N과 M (9) (백트래킹)](https://www.acmicpc.net/problem/15663)
+    - [2447 - 별 찍기 - 10 (재귀)](https://www.acmicpc.net/problem/2447)
+
+</details>
+
+<details>
+  <summary>14주차 : ✅ 24/10/23 ~ 24/10/29 =></summary>
 
   > 문제 목록
   - 미정
