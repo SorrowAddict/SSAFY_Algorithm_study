@@ -212,10 +212,13 @@
 </details>
 
 <details>
-  <summary>14주차 : ✅ 24/10/23 ~ 24/10/29 =></summary>
+  <summary>14주차 : ✅ 24/10/23 ~ 24/10/29 => 이분 탐색</summary>
 
   > 문제 목록
-  - 미정
+  - [2805 - 나무 자르기 (이분 탐색)](https://www.acmicpc.net/problem/2805)
+  - (선택 문제)
+    - [2110 - 공유기 설치 (이분 탐색)](https://www.acmicpc.net/problem/2110)
+    - [10026 - 적록색약 (그래프 탐색)](https://www.acmicpc.net/problem/10026)
 
 </details>
 
